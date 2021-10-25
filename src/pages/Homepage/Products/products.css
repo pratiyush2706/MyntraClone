@@ -1,0 +1,54 @@
+.productContainer {
+  margin: 20px;
+}
+
+.image {
+  max-width: 100%;
+  max-height: 280px;
+}
+
+.brand {
+  font-size: 16px;
+    font-weight: 500;
+    line-height: 1;
+    color: #282c3f;
+    margin-bottom: 6px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.additionalInfo {
+  color: #535766;
+    font-size: 14px;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-top: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 400;
+    display: block;
+}
+
+.dicountedPrice {
+  font-size: 14px;
+    color: #282c3f;
+    font-weight: 500;
+    padding-right: 4px;
+}
+
+.strike {
+  text-decoration: line-through;
+    color: #7e818c;
+    font-weight: 400;
+    margin-left: 5px;
+    font-size: 12px;
+}
+
+.discountedPercentage {
+  color: #ff905a;
+    font-weight: 400;
+    font-size: 12px;
+    margin-left: 5px;
+}
